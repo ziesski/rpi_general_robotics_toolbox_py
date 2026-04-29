@@ -1,7 +1,13 @@
 # import the needed modules (as is used to rename the module for easier referencing)
+#Jaeseok Kang hw4
+#Using transposed IK method
+
+import numpy as np
+# from . import general_robotics_toolbox as rox
 import math
 import numpy as np
 import general_robotics_toolbox as rox
+
 
 # define the Jacobian transposed
 def jacobian_transposed(robot, q0, Rd, Pd, Nmax, alpha, tol):

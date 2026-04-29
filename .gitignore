@@ -187,4 +187,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-docs/readme.md
+docs/readme.md.DS_Store
